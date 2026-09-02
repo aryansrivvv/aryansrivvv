@@ -1,16 +1,16 @@
 # 🚀 Featured Projects & Repositories
 
 ### 📊 Quantitative Finance & Risk Modeling
-
-[![Home Loan Stress Testing](https://github-readme-stats.vercel.app/api/pin/?username=aryansrivvv&repo=Home-Loan-Stress-Testing&theme=default)](https://github/aryansrivvv/Home-Loan-Stress-Testing)
-
-[![Retail Credit Risk PD Model](https://github-readme-stats.vercel.app/api/pin/?username=aryansrivvv&repo=PD-Credit-Scoring-Model&theme=default)](https://github/aryansrivvv/PD-Credit-Scoring-Model)
+* **[Home Loan Stress Testing & Scenario Analysis](https://github.com/aryansrivvv/Home-Loan-Stress-Testing)**
+  A quantitative risk analysis pipeline designed to model the impact of macroeconomic shocks on a residential mortgage portfolio.
+* **[Retail Credit Risk: PD Model Validation](https://github.com/aryansrivvv/PD-Credit-Scoring-Model)**
+  An end-to-end Probability of Default (PD) modeling framework built to industry and regulatory standards.
 
 ### 🧠 Deep Learning & Cryptography
 * **[Neural Distinguisher for Simon 32/64 Cipher](https://github.com/aryansrivvv/Neural-Distinguisher-for-Simon-32-64-Cipher)**
   Explores using Deep Learning (ResNet and SE attention mechanisms) to distinguish cryptographic outputs from random noise, based on research by Yuan and Wang.
 * **[TensorTonic Solutions](https://github.com/aryansrivvv/TensorTonic-Solutions)**
-  *A Respository containing my progress on Tensortonic Website*
+  *(Briefly describe what this project does here)*
 
 ### 🏗️ Data Engineering & Distributed Systems
 * **[Urban Accessibility Spatial Analyser](https://github.com/aryansrivvv/Urban-Accessibility-Spatial-Analyser)**
