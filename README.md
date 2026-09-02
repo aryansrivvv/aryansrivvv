@@ -10,7 +10,7 @@
 * **[Neural Distinguisher for Simon 32/64 Cipher](https://github.com/aryansrivvv/Neural-Distinguisher-for-Simon-32-64-Cipher)**
   Explores using Deep Learning (ResNet and SE attention mechanisms) to distinguish cryptographic outputs from random noise, based on research by Yuan and Wang.
 * **[TensorTonic Solutions](https://github.com/aryansrivvv/TensorTonic-Solutions)**
-  *(Briefly describe what this project does here)*
+  *My TensorTonic solutions repository!*
 
 ### 🏗️ Data Engineering & Distributed Systems
 * **[Urban Accessibility Spatial Analyser](https://github.com/aryansrivvv/Urban-Accessibility-Spatial-Analyser)**
